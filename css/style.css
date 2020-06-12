@@ -137,7 +137,15 @@ a:hover, a:active, a:focus {
 
 #about,
 #gallery,
-#contact {
+#contact,
+#bedrijfsanalyse,
+#huisstijl,
+#koopadvies,
+#interview,
+#frans,
+#frans1,
+#engels,
+#einde {
   padding-top: 120px;
   padding-bottom: 120px;
   position: relative;
